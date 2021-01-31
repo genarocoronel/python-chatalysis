@@ -1,3 +1,7 @@
 __pycache__
 .*cache
 data/private
+*.egg-info
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
